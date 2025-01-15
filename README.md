@@ -1,7 +1,8 @@
 ## Hi there 👋
 I'm a music technology student, currently getting my master's of science from Georgia Tech.
 
-I'm interested in software and hardware that brings humans closer to music!
+- I'm currently trying to teach a robot how to play guitar in a musical and interactive way
+- I like to make audio plugins in my spare time
 <!--
 **bakerbass/bakerbass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
