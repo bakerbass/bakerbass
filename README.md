@@ -1,8 +1,11 @@
 ## Hi there 👋
-I'm a music technology student, currently getting my master's of science from Georgia Tech.
+I'm a music technologist with degrees from the University of Miami (B.S.) and Georgia Tech (M.S).
 
-- I'm currently trying to teach a robot how to play guitar in a robust and audio-aware way
-- I like to make audio plugins in my spare time 
+- I've taught a robot to play guitar in an audio-aware way
+- I like to make audio plugins (JUCE, iPlug2, VCV Rack)
+- Currently refining my workflow with agentic tools to maximize creativity and minimize slop!
+
+You can learn more on my [github pages](https://bakerbass.github.io/)!
 <!--
 **bakerbass/bakerbass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
