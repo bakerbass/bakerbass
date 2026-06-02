@@ -3,7 +3,7 @@ I'm a music technologist with degrees from the University of Miami (B.S.) and Ge
 
 - I've taught a robot to play guitar in an audio-aware way
 - I like to make audio plugins (JUCE, MATLAB, iPlug2, VCV Rack)
-- Currently refining my workflow with agentic tools to maximize creativity and minimize slop!
+- Currently refining my workflow with agentic tools to maximize creativity and maintain high quality standards
 
 You can learn more on my [github pages](https://bakerbass.github.io/)!
 <!--
